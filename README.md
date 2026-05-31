@@ -34,13 +34,17 @@ Currently focused on:
 ## GitHub Statistics
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMateen0&show_icons=true&theme=tokyonight)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MohammedMateen0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMateen0&layout=compact&theme=tokyonight)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedMateen0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedMateen0&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedMateen0&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammedMateen0&theme=github_dark)
 
 ---
 
