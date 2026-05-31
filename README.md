@@ -35,7 +35,7 @@ Currently focused on:
 
 
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedMateen0&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MohammedMateen0)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedMateen0)](https://github.com/ashutosh00710/github-readme-activity-graph)
