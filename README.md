@@ -40,7 +40,7 @@ Currently focused on:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedMateen0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedMateen0&theme=github_dark)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedMateen0&theme=github_dark">
 </p>
 <p align="center">
 
