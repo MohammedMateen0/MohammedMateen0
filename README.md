@@ -40,9 +40,13 @@ Currently focused on:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedMateen0&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedMateen0&theme=github_dark)
+<p align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammedMateen0&theme=github_dark)
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedMateen0&theme=github_dark" />
+
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammedMateen0&theme=github_dark" />
+
+</p>
 
 ---
 
