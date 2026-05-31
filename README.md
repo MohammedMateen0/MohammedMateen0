@@ -33,7 +33,7 @@ Currently focused on:
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMateen0&show_icons=true)
+![GitHub Stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMateen0&show_icons=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MohammedMateen0)
 
