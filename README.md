@@ -8,7 +8,7 @@ Computer Science Graduate (2026)
 
 📍 Telangana, India
 
-[LinkedIn](https://linkedin.com/in/mohammed-mateen) • [Email](mailto:mdmateen2413@gmail.com)
+[LinkedIn](https://linkedin.com/in/mohammed-mateen-) • [Email](mailto:mdmateen2413@gmail.com)
 
 </div>
 
