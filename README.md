@@ -160,11 +160,45 @@ Python • OpenCV • Deep Learning • Computer Vision
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMateen0\&show_icons=true)
+### GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMateen0\&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMateen0&show_icons=true&rank_icon=github)
 
----
+### GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MohammedMateen0)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMateen0&layout=compact)
+
+### Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedMateen0)
+
+### GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohammedMateen0)
+
+### Contribution Snake
+
+![Snake Animation](https://raw.githubusercontent.com/MohammedMateen0/MohammedMateen0/output/github-contribution-grid-snake.svg)
+
+### Metrics Summary
+
+![Metrics](https://metrics.lecoq.io/MohammedMateen0)
+
+### Profile Views
+
+![](https://komarev.com/ghpvc/?username=MohammedMateen0)
+
+### Followers
+
+![Followers](https://img.shields.io/github/followers/MohammedMateen0?label=Followers&style=social)
+
+### Stars Earned
+
+![Stars](https://img.shields.io/github/stars/MohammedMateen0?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ## 2026 Goals
 
