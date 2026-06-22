@@ -1,202 +1,187 @@
-# Mohammed Mateen
+# Hi, I'm Mohammed Mateen 👋
 
-<div align="center">
+### Computer Science Graduate (2026)
 
-### Data Science | Machine Learning | SQL Analytics | Data Engineering
+Passionate about Machine Learning, Natural Language Processing, Large Language Models, Retrieval-Augmented Generation (RAG), and Data Science.
 
-Computer Science Graduate (2026)
-
-📍 Telangana, India
-
-[LinkedIn](https://linkedin.com/in/mohammed-mateen-) • [Email](mailto:mdmateen2413@gmail.com)
-
-</div>
+I enjoy building practical AI applications, experimenting with modern ML techniques, and continuously improving my skills through hands-on projects.
 
 ---
 
 ## About Me
 
-I am a Computer Science graduate passionate about Data Science, Machine Learning, Analytics, and Data Engineering.
-
-I enjoy building complete data-driven solutions—from data cleaning and transformation to machine learning model development and deployment.
-
-Currently focused on:
-
-* Machine Learning
-* SQL Analytics
-* Data Engineering
-* Statistics for ML
-* ETL Pipelines
-* Model Deployment
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammedMateen0">
-  </p>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedMateen0)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedMateen0&theme=github_dark">
-</p>
-<p align="center">
-
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedMateen0&theme=github_dark" />
-
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammedMateen0&theme=github_dark" />
-
-</p>
+* 🎓 B.Tech in Computer Science & Engineering (2026)
+* 🤖 Interested in Machine Learning, NLP, Generative AI, and Data Science
+* 📚 Learning by building real-world AI applications
+* 🔍 Exploring LLMs, RAG, Fine-Tuning, and AI-powered systems
+* 🌱 Actively seeking opportunities in AI/ML and Data Science
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
+### Programming
 
 * Python
 * SQL
 
-### Data Science & Machine Learning
+### Python Libraries
 
 * Pandas
 * NumPy
-* Scikit-learn
-* SHAP
 * Matplotlib
-* Exploratory Data Analysis
-* Feature Engineering
-* Data Preprocessing
-* Model Evaluation
+* Scikit-Learn
+* PyTorch
+* Transformers
 
-### Data Engineering
+### Machine Learning
 
-* ETL Pipelines
-* Data Cleaning
-* Data Transformation
-* Data Validation
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
+* Sentiment Analysis
+* Model Fine-Tuning
 
-### Tools
+### Generative AI
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* LangChain
+* LoRA
+* QLoRA
+* Prompt Engineering
+
+### Tools & Databases
 
 * Git
 * GitHub
-* FastAPI
+* Streamlit
 * Jupyter Notebook
-* VS Code
+* SQLite
+* ChromaDB
 
 ---
 
 ## Featured Projects
 
-### Thyroid ML API
+### 📜 Legal Document Assistant
 
-End-to-end machine learning application for thyroid disease prediction.
+An AI-powered legal document assistant built using Retrieval-Augmented Generation (RAG) techniques.
 
-**Highlights**
+#### Features
 
-* Developed a complete classification pipeline using Python and Scikit-learn
-* Evaluated models using Accuracy, Precision, Recall, F1-Score, and ROC-AUC
-* Integrated SHAP explainability and deployed prediction endpoints using FastAPI
+* Document ingestion and processing
+* Semantic document retrieval
+* Context-aware legal question answering
+* Vector database integration
+* RAG pipeline implementation
 
-**Tech Stack**
+#### Tech Stack
 
-Python • Scikit-learn • SHAP • FastAPI
-
----
-
-### Zomato SQL Analysis
-
-Business analytics project using SQL on restaurant and customer datasets.
-
-**Highlights**
-
-* Wrote analytical SQL queries using joins, aggregations, filtering, and grouping
-* Analyzed customer ordering behavior and restaurant performance
-* Generated actionable business insights from structured datasets
-
-**Tech Stack**
-
-SQL • MySQL
+Python • LangChain • ChromaDB • RAG • LLMs
 
 ---
 
-### Hyderabad Rental ETL Pipeline
+### 🤖 Llama3 DS Assistant
 
-Data pipeline project for processing rental housing datasets.
+A Data Science learning assistant powered by Llama 3 that helps users understand machine learning, statistics, and AI concepts.
 
-**Highlights**
+#### Features
 
-* Built ETL workflows for data extraction and transformation
-* Performed data cleaning, validation, and preprocessing
-* Prepared analytics-ready datasets for downstream reporting
+* LLM-powered responses
+* Interactive learning experience
+* Prompt engineering workflows
+* Data science Q&A
 
-**Tech Stack**
+#### Tech Stack
 
-Python • Pandas • SQL
-
----
-
-### Customer Churn Prediction
-
-Machine learning project focused on predicting customer attrition.
-
-**Highlights**
-
-* Built classification models for churn prediction
-* Performed preprocessing and feature preparation
-* Evaluated model performance using industry-standard metrics
-
-**Tech Stack**
-
-Python • Pandas • Scikit-learn
+Python • Llama 3 • Transformers • Generative AI
 
 ---
 
-### House Price Prediction using XGBoost & SHAP
+### 🩺 Thyroid ML API
 
-Advanced regression project with model explainability.
+A machine learning API for thyroid disease prediction with real-time inference capabilities.
 
-**Highlights**
+#### Features
 
-* Implemented XGBoost regression models
-* Applied SHAP for feature importance interpretation
-* Analyzed real-estate pricing patterns
+* Data preprocessing
+* Model training and evaluation
+* REST API deployment
+* Real-time prediction endpoint
 
-**Tech Stack**
+#### Tech Stack
 
-Python • XGBoost • SHAP
+Python • Scikit-Learn • FastAPI • Pandas
 
 ---
 
-## Current Learning Journey
+### 😊 Age Gender Emotion Detection
 
-* Advanced SQL
-* Statistics & Probability
-* Machine Learning System Design
-* MLOps Fundamentals
-* Production ML Systems
+A computer vision application that predicts age group, gender, and emotion from facial images.
+
+#### Features
+
+* Face detection
+* Age prediction
+* Gender classification
+* Emotion recognition
+* Real-time inference
+
+#### Tech Stack
+
+Python • OpenCV • Deep Learning • Computer Vision
+
+---
+
+## Currently Learning
+
+* Agentic AI Systems
+* Advanced RAG Architectures
+* LLM Evaluation
+* AI Application Development
+* AI System Design
+* Production AI Workflows
+
+---
+
+## Areas of Interest
+
+* Machine Learning
+* Data Science
+* Natural Language Processing
+* Generative AI
+* Large Language Models
+* Retrieval-Augmented Generation
+* Computer Vision
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMateen0\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMateen0\&layout=compact)
 
 ---
 
 ## 2026 Goals
 
-* Secure a Data Science / Machine Learning role
-* Build production-ready ML systems
-* Strengthen Data Engineering skills
-* Contribute to open-source data projects
+* Build stronger AI/ML projects
+* Gain industry experience through internships and entry-level roles
+* Contribute to open-source projects
+* Deepen knowledge of LLMs and RAG systems
+* Continue learning and improving every day
 
 ---
 
-### Connect With Me
+## Connect With Me
 
-📧 [mdmateen2413@gmail.com](mailto:mdmateen2413@gmail.com)
-
-🔗 linkedin.com/in/mohammed-mateen-
-
-🐙 github.com/MohammedMateen0
+* [GitHub](https://github.com/MohammedMateen0)
+* [LinkedIn](https://linkedin.com/in/mohammed-mateen-)
+* [Email](mdmateen2413@gmail.com)
 
 ---
 
-*"Turning data into insights and models into solutions."*
+> "Learning, building, and improving through consistent practice."
