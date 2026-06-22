@@ -65,73 +65,131 @@ I enjoy building practical AI applications, experimenting with modern ML techniq
 
 ## Featured Projects
 
+## Featured Projects
+
 ### 📜 Legal Document Assistant
 
-An AI-powered legal document assistant built using Retrieval-Augmented Generation (RAG) techniques.
+Built a Retrieval-Augmented Generation (RAG) application for answering questions from legal documents.
 
-#### Features
+**What I Did**
 
-* Document ingestion and processing
-* Semantic document retrieval
-* Context-aware legal question answering
-* Vector database integration
-* RAG pipeline implementation
+* Processed legal PDF documents
+* Split documents into chunks for retrieval
+* Generated embeddings for semantic search
+* Stored embeddings in ChromaDB
+* Retrieved relevant context based on user queries
+* Generated responses using Gemini
+* Built a Streamlit interface
 
-#### Tech Stack
+**Tech Stack**
 
-Python • LangChain • ChromaDB • RAG • LLMs
+Python • LangChain • ChromaDB • Streamlit • Llama 3
+
+**Concepts Used**
+
+RAG • Embeddings • Vector Search • Prompt Engineering
 
 ---
 
 ### 🤖 Llama3 DS Assistant
 
-A Data Science learning assistant powered by Llama 3 that helps users understand machine learning, statistics, and AI concepts.
+Built a Data Science learning assistant using Llama 3.
 
-#### Features
+**What I Did**
 
-* LLM-powered responses
-* Interactive learning experience
-* Prompt engineering workflows
-* Data science Q&A
+* Integrated a Llama 3 model for question answering
+* Created prompts focused on Data Science topics
+* Built a conversational interface
+* Generated explanations for ML, Statistics, Python, and SQL concepts
 
-#### Tech Stack
+**Models Used**
 
-Python • Llama 3 • Transformers • Generative AI
+* Llama 3
+
+**Tech Stack**
+
+Python • Transformers • Streamlit
+
+**Concepts Used**
+
+LLMs • Prompt Engineering • Chat Applications
 
 ---
 
-### 🩺 Thyroid ML API
+### 🩺 Thyroid Disease Prediction API
 
-A machine learning API for thyroid disease prediction with real-time inference capabilities.
+Developed and deployed a machine learning API for thyroid disease prediction.
 
-#### Features
+**What I Did**
 
-* Data preprocessing
-* Model training and evaluation
-* REST API deployment
-* Real-time prediction endpoint
+* Cleaned and preprocessed medical data
+* Trained classification models
+* Evaluated model performance
+* Saved trained models for inference
+* Created prediction endpoints using FastAPI
+* Returned predictions through REST APIs
 
-#### Tech Stack
+**Tech Stack**
 
-Python • Scikit-Learn • FastAPI • Pandas
+Python • Scikit-Learn • FastAPI • Pandas • NumPy
+
+**Concepts Used**
+
+Classification • Model Deployment • API Development
 
 ---
 
 ### 😊 Age Gender Emotion Detection
 
-A computer vision application that predicts age group, gender, and emotion from facial images.
+Built a computer vision system for facial analysis.
 
-#### Features
+**What I Did**
 
-* Face detection
-* Age prediction
-* Gender classification
-* Emotion recognition
-* Real-time inference
+* Detected faces from images and webcam streams
+* Predicted age groups
+* Classified gender
+* Recognized facial emotions
+* Displayed predictions in real time
 
-#### Tech Stack
+**Tech Stack**
 
-Python • OpenCV • Deep Learning • Computer Vision
+Python • OpenCV • Deep Learning
+
+**Concepts Used**
+
+Computer Vision • CNNs • Face Detection • Classification
+
+---
+
+### 💹 Financial Sentiment Analysis
+
+Fine-tuned DistilBERT for financial news sentiment classification.
+
+**What I Did**
+
+* Preprocessed financial news text
+* Tokenized text using Hugging Face tokenizers
+* Fine-tuned DistilBERT on labeled financial data
+* Evaluated performance using classification metrics
+* Built a Streamlit application for inference
+
+**Results**
+
+* Accuracy: 75%
+* Macro F1 Score: 0.66
+* Weighted F1 Score: 0.74
+
+**Model Used**
+
+* DistilBERT
+
+**Tech Stack**
+
+Python • PyTorch • Hugging Face Transformers • Streamlit
+
+**Concepts Used**
+
+NLP • Transfer Learning • Transformer Fine-Tuning
 
 ---
 
