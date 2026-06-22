@@ -83,7 +83,7 @@ Built a Retrieval-Augmented Generation (RAG) application for answering questions
 
 **Tech Stack**
 
-Python • LangChain • ChromaDB • Streamlit • Llama 3
+Python • LangChain • ChromaDB • Streamlit • Ollama
 
 **Concepts Used**
 
@@ -91,30 +91,7 @@ RAG • Embeddings • Vector Search • Prompt Engineering
 
 ---
 
-### 🤖 Llama3 DS Assistant
 
-Built a Data Science learning assistant using Llama 3.
-
-**What I Did**
-
-* Integrated a Llama 3 model for question answering
-* Created prompts focused on Data Science topics
-* Built a conversational interface
-* Generated explanations for ML, Statistics, Python, and SQL concepts
-
-**Models Used**
-
-* Llama 3
-
-**Tech Stack**
-
-Python • Transformers • Streamlit
-
-**Concepts Used**
-
-LLMs • Prompt Engineering • Chat Applications
-
----
 
 ### 🩺 Thyroid Disease Prediction API
 
